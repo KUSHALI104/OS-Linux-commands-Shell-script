@@ -1233,7 +1233,11 @@ else
 fi
 ```
 ## OUTPUT 
-
+```
+Enter the number
+45
+Number is NOT palindrome
+```
 
 # RESULT:
 The Commands are executed successfully.
